@@ -165,7 +165,7 @@ export default function AboutPage() {
         img: worker3
       },
       {
-        name: "Daniel Elemide",
+        name: "Emily Davis",
         role: "Developer",
         img: worker1
       }
