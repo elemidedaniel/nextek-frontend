@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 import hero from "../assets/images/hero.jpeg";
-import worker1 from "../assets/images/worker1.jpeg";
+import worker1 from "../assets/images/worker2.jpeg";
 import worker2 from "../assets/images/worker2.jpeg";
 import worker3 from "../assets/images/worker3.jpeg";
 import worker4 from "../assets/images/worker4.jpeg"; 
