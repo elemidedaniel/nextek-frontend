@@ -132,7 +132,7 @@
     "keyv": "^4.5.4",
     "levn": "^0.4.1",
     "lightningcss": "^1.30.2",
-    "lightningcss-darwin-x64": "^1.30.2",
+
     "locate-path": "^6.0.0",
     "lodash.includes": "^4.3.0",
     "lodash.isboolean": "^3.0.3",
